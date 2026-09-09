@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+
+<students>
+
+    <student id="101" status="Active">
+        <name>Teja</name>
+        <gender>Male</gender>
+        <age>22</age>
+        <dateOfBirth>2004-05-15</dateOfBirth>
+        <course>Computer Science</course>
+        <department>Computer Science</department>
+        <email>teja@example.com</email>
+        <phone>9876543212</phone>
+        <city>Hyderabad</city>
+        <country>India</country>
+        <address>
+            <street>MG Road</street>
+            <city>Hyderabad</city>
+            <state>Telangana</state>
+            <pincode>500001</pincode>
+        </address>
+
+        <subjects>
+            <subject>
+                <name>HTML</name>
+                <marks>85</marks>
+            </subject>
+
+            <subject>
+                <name>SQL</name>
+                <marks>90</marks>
+            </subject>
+
+            <subject>
+                <name>XML</name>
+                <marks>88</marks>
+            </subject>
+        </subjects>
+    </student>
+
+    <student id="102" status="Active">
+        <name>Rahul</name>
+        <gender>Male</gender>
+        <age>21</age>
+        <dateOfBirth>2005-08-20</dateOfBirth>
+        <course>Information Technology</course>
+        <department>Information Technology</department>
+        <email>rahul@example.com</email>
+        <phone>9876543211</phone>
+        <city>Bangalore</city>
+        <country>India</country>
+        <address>
+            <street>Brigade Road</street>
+            <city>Bangalore</city>
+            <state>Karnataka</state>
+            <pincode>560001</pincode>
+        </address>
+
+        <subjects>
+            <subject>
+                <name>HTML</name>
+                <marks>78</marks>
+            </subject>
+
+            <subject>
+                <name>SQL</name>
+                <marks>82</marks>
+            </subject>
+
+            <subject>
+                <name>XML</name>
+                <marks>91</marks>
+            </subject>
+        </subjects>
+    </student>
+
+    <student id="103" status="Active">
+        <name>Priya</name>
+        <gender>Female</gender>
+        <age>23</age>
+        <dateOfBirth>2003-12-10</dateOfBirth>
+        <course>Computer Applications</course>
+        <department>Computer Applications</department>
+        <email>priya@example.com</email>
+        <phone>9876543210</phone>
+        <city>Chennai</city>
+        <country>India</country>
+        <address>
+            <street>Anna Salai</street>
+            <city>Chennai</city>
+            <state>Tamil Nadu</state>
+            <pincode>600001</pincode>
+        </address>
+
+        <subjects>
+            <subject>
+                <name>HTML</name>
+                <marks>92</marks>
+            </subject>
+
+            <subject>
+                <name>SQL</name>
+                <marks>87</marks>
+            </subject>
+
+            <subject>
+                <name>XML</name>
+                <marks>95</marks>
+            </subject>
+        </subjects>
+    </student>
+
+</students>
